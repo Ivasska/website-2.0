@@ -1,0 +1,8 @@
+.lg-fullscreen:after {
+  content: "\26F6";
+	font-size: 40px;
+}
+
+.lg-fullscreen-on .lg-fullscreen:after {
+  content: "\26F6";
+}
